@@ -1,0 +1,17 @@
+.cardContainer{
+    padding: 90px;
+    display: flex;
+}
+.cardImage{
+    width: 750px;
+    margin-right: 30px;
+}
+.cardTitle{
+    font-size: 35px;
+    font-weight: 900;
+    color: rgb(37, 37, 37);
+    margin-bottom: 30px;
+}.cardSmallText{
+    font-size: 11px;
+    margin: 30px 0px;
+}
